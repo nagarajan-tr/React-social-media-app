@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "datetime": "July 01, 2025 11:17:36 AM",
+      "body": "This is the body of post 1"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "datetime": "July 01, 2025 11:17:36 AM",
+      "body": "This is the body of post 2"
+    },
+    {
+      "id": "21",
+      "title": "Nagarajan",
+      "datetime": "February 07, 2025 2:04:00 PM",
+      "body": "loeram qwertfvc cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    },
+    {
+      "id": "22",
+      "title": "Nagarajan",
+      "datetime": "February 07, 2025 1:37:27 PM",
+      "body": "poiu"
+    },
+    {
+      "id": "221",
+      "title": "Test",
+      "datetime": "February 07, 2025 2:47:09 PM",
+      "body": "test"
+    },
+    {
+      "id": "2211",
+      "title": "Good",
+      "datetime": "February 09, 2025 3:54:14 PM",
+      "body": "I have successfully  watched react video"
+    }
+  ]
+}
