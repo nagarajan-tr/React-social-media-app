@@ -14,8 +14,7 @@ import EditPost from './EditPost';
 
 function App() {
 
-
-  return (
+ return (
     <div className="App">
       <DataProvider>
         <Header title= "Social Media App"/>
