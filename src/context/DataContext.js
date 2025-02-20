@@ -23,9 +23,9 @@ export const DataProvider = ({children}) => {
   const [editBody, setEditBody] = useState('');
   const navigate = useNavigate();
   const {width} = useWindowSize();
-  // const {data, fetchError, isLoading} = useAxiosFetch('http://localhost:3500/posts');
+  const {data, fetchError, isLoading} = useAxiosFetch('http://localhost:3500/posts');
   // const {data, fetchError, isLoading} = useAxiosFetch('https://e29c-115-97-253-94.ngrok-free.app/posts');
-  const {data, fetchError, isLoading} = useAxiosFetch('https://62fd-115-97-253-94.ngrok-free.app/posts');
+  // const {data, fetchError, isLoading} = useAxiosFetch('https://62fd-115-97-253-94.ngrok-free.app/posts');
 
   useEffect(() => {
     setPosts(data);
